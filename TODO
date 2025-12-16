@@ -1,0 +1,4 @@
+1. eslint + prettier
+2. Tests (vitest + something for e2e)
+3. Store? 
+4. useQuery??
