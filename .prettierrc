@@ -3,5 +3,9 @@
   "trailingComma": "es5",
   "singleQuote": false,
   "tabWidth": 2,
-  "printWidth": 80
+  "printWidth": 80,
+
+  "tailwindStylesheet": "./app/assets/css/main.css",
+  "tailwindFunctions": ["tw"],
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
