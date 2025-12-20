@@ -23,6 +23,10 @@
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
-    "eslint-plugin-unused-imports": "^4.1.4"
-  }
+    "@vue/test-utils": "^2.4.6",
+    "@vueuse/core": "^14.1.0",
+    "eslint-plugin-unused-imports": "^4.1.4",
+    "vitest": "^4.0.16"
+  },
+  "packageManager": "pnpm@10.6.4+sha1.2036e172356d1e918e11cb21d795160cd6696fa9"
 }
